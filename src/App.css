@@ -1,0 +1,12 @@
+label {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+.todo-details {
+  margin-top: 10px;
+}
